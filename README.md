@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm DEV SOLANKI
 
-<!--
-**D03SOLANKI/D03SOLANKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- AI Developer
+- Building AI Agents
+- Working on AI Assistant Store
+- Interested in Trading Automation & SaaS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python
+- JavaScript
+- React
+- Next.js
+- FastAPI
+- MongoDB
+- PyTorch
+
+---
+
+## 🔥 Current Projects
+- AI Agent Store
+- AI SQL Generator
+- Trading Analytics Platform
+- Ambulance Traffic Automation System
+
+---
+
+## 📫 Connect With Me
+- LinkedIn
+- Portfolio
+- Email
