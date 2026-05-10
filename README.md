@@ -3,7 +3,6 @@
 ## 🚀 About Me
 - AI Developer
 - Building AI Agents
-- Working on AI Assistant Store
 - Interested in Trading Automation & SaaS
 
 ---
@@ -21,9 +20,8 @@
 
 ## 🔥 Current Projects
 - AI Agent Store
-- AI SQL Generator
 - Trading Analytics Platform
-- Ambulance Traffic Automation System
+
 
 ---
 
